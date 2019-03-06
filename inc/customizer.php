@@ -1,8 +1,8 @@
 <?php
 /**
- * law Theme Customizer
+ * Law Theme Customizer
  *
- * @package law
+ * @package Law
  */
 
 /**
